@@ -41,7 +41,7 @@ publishing {
                 from(components["release"])
                 groupId = "com.roman_kulikov.tools"
                 artifactId = "compose_tools"
-                version = "0.0.1"
+                version = "0.1.0"
             }
         }
     }
